@@ -7,3 +7,7 @@
 + permissions.groovy
 
    Grant permissions on many jobs or whole view for many users at once;
+
++ history_update.groovy
+
+   Update log history settings in jobs, matched by pattern;
