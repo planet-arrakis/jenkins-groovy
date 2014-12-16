@@ -12,7 +12,7 @@ for (j in ["ABC", "DEF", "GHI"]) {
 //
 //jobs = Jenkins.instance.getView("ABC").getView("DEF").getView("GHI").getItems()
 
-users =  ["yc14ab1", "yc14cd2", "yc14ef3"]
+users =  ["user1", "user2", "user3"]
 rights = [Item.READ, Item.BUILD]
  
 jobs.each {
